@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/#Sliding Window Algorithm/#Sliding Window Algorithm.iml" filepath="$PROJECT_DIR$/#Sliding Window Algorithm/#Sliding Window Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Two sum/1. Two sum.iml" filepath="$PROJECT_DIR$/1. Two sum/1. Two sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21. Слияние двух отсортированных списков ( LISTNIDE)/21. Слияние двух отсортированных списков ( LISTNIDE).iml" filepath="$PROJECT_DIR$/21. Слияние двух отсортированных списков ( LISTNIDE)/21. Слияние двух отсортированных списков ( LISTNIDE).iml" />
+      <module fileurl="file://$PROJECT_DIR$/22. Генерация парных скобок при входном int/22. Генерация парных скобок при входном int.iml" filepath="$PROJECT_DIR$/22. Генерация парных скобок при входном int/22. Генерация парных скобок при входном int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23. Слияние K отсортированных List (Hard)/23. Слияние K отсортированных List (Hard).iml" filepath="$PROJECT_DIR$/23. Слияние K отсортированных List (Hard)/23. Слияние K отсортированных List (Hard).iml" />
+      <module fileurl="file://$PROJECT_DIR$/26. Удалить дубликаты в отсортированном массиве (Два указателя)/26. Удалить дубликаты в отсортированном массиве (Два указателя).iml" filepath="$PROJECT_DIR$/26. Удалить дубликаты в отсортированном массиве (Два указателя)/26. Удалить дубликаты в отсортированном массиве (Два указателя).iml" />
+      <module fileurl="file://$PROJECT_DIR$/28. Найти иголку в стоге сена./28. Найти иголку в стоге сена.iml" filepath="$PROJECT_DIR$/28. Найти иголку в стоге сена./28. Найти иголку в стоге сена.iml" />
+      <module fileurl="file://$PROJECT_DIR$/283. Move zerous (two pointers)/283. Move zerous (two pointers).iml" filepath="$PROJECT_DIR$/283. Move zerous (two pointers)/283. Move zerous (two pointers).iml" />
+      <module fileurl="file://$PROJECT_DIR$/287. Find the Dublicate Number/287. Find the Dublicate Number.iml" filepath="$PROJECT_DIR$/287. Find the Dublicate Number/287. Find the Dublicate Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 суммы/3 суммы.iml" filepath="$PROJECT_DIR$/3 суммы/3 суммы.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Longest SubString Without Repeating Characters (Slide Window)/3. Longest SubString Without Repeating Characters (Slide Window).iml" filepath="$PROJECT_DIR$/3. Longest SubString Without Repeating Characters (Slide Window)/3. Longest SubString Without Repeating Characters (Slide Window).iml" />
+      <module fileurl="file://$PROJECT_DIR$/34. Найти первую и последнюю позицию элемента в отсортированном массиве/34. Найти первую и последнюю позицию элемента в отсортированном массиве.iml" filepath="$PROJECT_DIR$/34. Найти первую и последнюю позицию элемента в отсортированном массиве/34. Найти первую и последнюю позицию элемента в отсортированном массиве.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49. Сгруппировать анаграммы/49. Сгруппировать анаграммы.iml" filepath="$PROJECT_DIR$/49. Сгруппировать анаграммы/49. Сгруппировать анаграммы.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53. subarray in which max sum of elements (Kodane Algo)/53. subarray in which max sum of elements (Kodane Algo).iml" filepath="$PROJECT_DIR$/53. subarray in which max sum of elements (Kodane Algo)/53. subarray in which max sum of elements (Kodane Algo).iml" />
+      <module fileurl="file://$PROJECT_DIR$/560. SubArray Sum Equals K. (Prefix Sum + HashMap)/560. SubArray Sum Equals K. (Prefix Sum + HashMap).iml" filepath="$PROJECT_DIR$/560. SubArray Sum Equals K. (Prefix Sum + HashMap)/560. SubArray Sum Equals K. (Prefix Sum + HashMap).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindLongestSubArrayBySum/FindLongestSubArrayBySum.iml" filepath="$PROJECT_DIR$/FindLongestSubArrayBySum/FindLongestSubArrayBySum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Комбинация строк в номере телефона/Комбинация строк в номере телефона.iml" filepath="$PROJECT_DIR$/Комбинация строк в номере телефона/Комбинация строк в номере телефона.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Медиана в двух сортированных списках (бинарный поиск)/Медиана в двух сортированных списках (бинарный поиск).iml" filepath="$PROJECT_DIR$/Медиана в двух сортированных списках (бинарный поиск)/Медиана в двух сортированных списках (бинарный поиск).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Найти первый дубликат/Найти первый дубликат.iml" filepath="$PROJECT_DIR$/Найти первый дубликат/Найти первый дубликат.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Палиндром/Палиндром.iml" filepath="$PROJECT_DIR$/Палиндром/Палиндром.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Парные скобки/Парные скобки.iml" filepath="$PROJECT_DIR$/Парные скобки/Парные скобки.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Подготовка в собесу/Подготовка в собесу.iml" filepath="$PROJECT_DIR$/Подготовка в собесу/Подготовка в собесу.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Префиксные суммы/Префиксные суммы.iml" filepath="$PROJECT_DIR$/Префиксные суммы/Префиксные суммы.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Самый длинный префикс в массиве строк/Самый длинный префикс в массиве строк.iml" filepath="$PROJECT_DIR$/Самый длинный префикс в массиве строк/Самый длинный префикс в массиве строк.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Сортировки/Сортировки.iml" filepath="$PROJECT_DIR$/Сортировки/Сортировки.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Тренировки по алгоритмам от Яндекса/Тренировки по алгоритмам от Яндекса.iml" filepath="$PROJECT_DIR$/Тренировки по алгоритмам от Яндекса/Тренировки по алгоритмам от Яндекса.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Цифру в латинском представлении/Цифру в латинском представлении.iml" filepath="$PROJECT_DIR$/Цифру в латинском представлении/Цифру в латинском представлении.iml" />
+    </modules>
+  </component>
+</project>
