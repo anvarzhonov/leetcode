@@ -20,6 +20,25 @@ class Solution {
         }
         return max;
     }
+
+    // O(n^2)
+    public int longestkSubstr(String s) {
+        int maxResult = 0;
+
+        for (int i=0;i<s.length();i++) {
+            int substringResult = 0;
+            char currentValue = s.charAt(i);
+            for (int j=i++;j<s.length();j++) {
+                if (currentValue == s.charAt(j)) {
+                    maxResult = Math.max(maxResult, substringResult);
+                } else {
+                    substringResult++;
+                }
+            }
+        }
+
+        return maxResult;
+    }
 //        int maxCount = 0;
 //        int i = 0, j = 0;
 //        int strLen = s.length();
